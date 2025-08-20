@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Roderick, a full-stack software engineer in Pegatron.
-- 👀 I’m interested in Java and AI algorithm.
-- 🌱 I’m currently writing SpringBoot and Vue.js.
-- 
+- 👋 Hi, I’m @Roderick, a software engineer at Compax.
+- 👀 I’m interested in Java and AI side project.
 
 
 <!---
